@@ -1,0 +1,1 @@
+# fetchimi-firefox-addon
